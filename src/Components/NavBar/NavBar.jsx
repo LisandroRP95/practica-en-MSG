@@ -24,8 +24,8 @@ function NavBar() {
               </NavDropdown>
             </Nav>
           </Navbar.Collapse>
-          <CartWidget/>
         </Container>
+        <CartWidget/>
       </Navbar>
     );
   }

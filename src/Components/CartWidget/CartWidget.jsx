@@ -10,14 +10,13 @@ function CartWidget() {
         <Container>
             <Row>
                 <Col xs={6} md={4}>
-                <Button variant="secondary">
-                    <Figure>
+                    <Button variant="secondary">
+                        <Figure>
                         <Figure.Image
                             width={50}
                             height={50}
                             alt="Cart"
-                            src="./src/assets/cart-xs.svg"
-                        /></Figure>0</Button>{''}
+                            src="./src/assets/cart-xs.svg" /></Figure>0</Button>{''}
                 </Col>
             </Row>
         </Container>
